@@ -9,12 +9,6 @@ A simple project to practice implementing pagination, allowing users to navigate
 - **Navigation Controls**: Next and Previous buttons to navigate between pages.  
 - **Dynamic Page Rendering**: Updates content dynamically based on the selected page.  
 
-## 📷 Screenshot  
-
-![Screenshot](screenshot.png)  
-
-
-
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/skiee9/pagination-practice.git
